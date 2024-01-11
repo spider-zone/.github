@@ -1,2 +1,4 @@
-# .github
-To tell people to move to the new Aclevo GitHub
+# Spider Zone is deprecated
+Please move to our new GitHub at https://github.com/Aclevo.
+
+👋 See you there!
